@@ -1,0 +1,22 @@
+{
+  "name": "magenta-tv.pl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pawellenart/magentatv.git"
+  },
+  "author": "Pawel Lenart",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pawellenart/magentatv/issues"
+  },
+  "homepage": "https://github.com/pawellenart/magentatv#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.0.18"
+  }
+}
